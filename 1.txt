@@ -1,2 +1,0 @@
- Hi this is 1 txt file added 
-File is nodifed by master throug git hub browser
